@@ -4,7 +4,7 @@
    Plugin URI: https://github.com/aronwp/woo-web
    GitHub Plugin URI: /aronwp/woo-web
    Description: Tweaks to enhance WordPress
-   Version: 1.1
+   Version: 1.2
    Author: Woo Web Design Inc.
    Author URI: http://woowebdesign.com
    License: GPL2
