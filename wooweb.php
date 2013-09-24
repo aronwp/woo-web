@@ -1,8 +1,8 @@
 <?php
    /*
    Plugin Name: Woo Web Tweaks
-   Plugin URI: http://woowebdesign.com
-   GitHub Plugin URI: https://github.com/aronwp/woo-web
+   Plugin URI: https://github.com/aronwp/woo-web
+   GitHub Plugin URI: /aronwp/woo-web
    Description: Tweaks to enhance WordPress
    Version: 1.1
    Author: Woo Web Design Inc.
