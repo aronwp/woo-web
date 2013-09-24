@@ -2,6 +2,7 @@
    /*
    Plugin Name: Woo Web Tweaks
    Plugin URI: http://woowebdesign.com
+   GitHub Plugin URI: https://github.com/aronwp/woo-web
    Description: Tweaks to enhance WordPress
    Version: 1.0
    Author: Woo Web Design Inc.
